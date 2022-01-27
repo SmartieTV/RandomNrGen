@@ -1,13 +1,12 @@
 import random
 import os
 import time
-# This is my test python code, which checks for random numbers and their results.
-# Coded by: Adrian (SmartieTV - smrtv.de)
-# Firstly coded here: https://www.onlinegdb.com/zGtvKhY_Q
-# Exaluation as a spreadsheet here: https://docs.google.com/spreadsheets/d/1ALLV_BxWJsyYjhKHVDhPOThEOOB1-158cf3iHoU_Dm0/edit?usp=sharing
+# This lightweight program generates random numbers in Python with the random library. 
+# Coded by: SmartieTV - (smrtv.de)
+# Evaluation as a spreadsheet can be found here: https://docs.google.com/spreadsheets/d/1ALLV_BxWJsyYjhKHVDhPOThEOOB1-158cf3iHoU_Dm0/edit?usp=sharing
 
 #Define a spleeping time here (default = 0.1):
-sleeptime = (0.1) #Please be aware, that this can cause lag, if set to a value below 0.1!
+sleeptime = (0.1) # Can cause issues, if set to < 0.1
 
 
 create = ("true")
